@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Grid, Typography } from "@material-ui/core";
+// import { Grid, Typography } from "@material-ui/core";
 // import Book from "../reached.epub";
 import { EpubView } from "react-reader";
 import RightSide from "./RightSide";

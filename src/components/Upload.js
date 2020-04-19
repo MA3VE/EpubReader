@@ -62,7 +62,10 @@ export class Upload extends Component {
                 </Grid>
 
                 <Grid item>
-                    <IconButton href="https://github.com/" size="'medium">
+                    <IconButton
+                        href="https://github.com/MA3VE/EpubReader"
+                        size="medium"
+                    >
                         <GitHubIcon
                             style={{ width: "100px", height: "200px" }}
                         />
