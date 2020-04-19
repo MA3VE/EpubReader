@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/EpubReader/static/js/main.13ee06e6.chunk.js",
+    "main.js.map": "/EpubReader/static/js/main.13ee06e6.chunk.js.map",
+    "runtime-main.js": "/EpubReader/static/js/runtime-main.db9415e4.js",
+    "runtime-main.js.map": "/EpubReader/static/js/runtime-main.db9415e4.js.map",
+    "static/js/2.8a431489.chunk.js": "/EpubReader/static/js/2.8a431489.chunk.js",
+    "static/js/2.8a431489.chunk.js.map": "/EpubReader/static/js/2.8a431489.chunk.js.map",
+    "index.html": "/EpubReader/index.html",
+    "precache-manifest.becbbe336b6efbdbf62929d52c1b40be.js": "/EpubReader/precache-manifest.becbbe336b6efbdbf62929d52c1b40be.js",
+    "service-worker.js": "/EpubReader/service-worker.js",
+    "static/js/2.8a431489.chunk.js.LICENSE.txt": "/EpubReader/static/js/2.8a431489.chunk.js.LICENSE.txt",
+    "static/media/loader.gif": "/EpubReader/static/media/loader.783d189e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db9415e4.js",
+    "static/js/2.8a431489.chunk.js",
+    "static/js/main.13ee06e6.chunk.js"
+  ]
+}
